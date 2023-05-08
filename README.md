@@ -1,3 +1,3 @@
 This is the Resume 
 
-As Full Stack Web Developer
+As a Full Stack Web Developer
