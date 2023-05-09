@@ -1,10 +1,11 @@
 li {
-  color:blue;
+  color: blue;
+  text-align: center;
 }
 
 .main {
-        display: flex;
-        align-items: center;
-        justify-content: center;
+
+  text-align: center;
+  justify-content: center;
 
 }
